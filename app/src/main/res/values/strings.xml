@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P06TaskManager</string>
+    <string name="addNameText">Name</string>
+    <string name="addDescriptionText">Description</string>
+</resources>
